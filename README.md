@@ -15,3 +15,7 @@ WHEN I refresh the page
 THEN the saved events persist
 
 # Screenshot img
+![screenshot img](https://user-images.githubusercontent.com/95258502/155886211-14170c44-2a58-4d9c-a546-fc28da4cb5f6.png)
+
+# url 
+<a href="https://oliviakim96.github.io/work-day-scheduler/"> Work-day-scheduler link </a>
